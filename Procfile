@@ -1,2 +1,2 @@
-web:npm run docs-prod
+web: npm run docs-prod
 
